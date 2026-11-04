@@ -1,48 +1,41 @@
-# Krishna Sankeerth Pagoti
+![KRISHNA S. PAGOTI — AI/ML ENGINEER](https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:3A0D0D,100:FF392B&height=220&section=header&text=KRISHNA%20S.%20PAGOTI&fontSize=45&fontColor=F4F0E9&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%2F%20ML%20ENGINEER%20%E2%80%94%20BUILDING%20AT%20FULL%20THROTTLE&descAlignY=58&descSize=13)
 
-**AI & Machine Learning Student · Developer · Creative Technologist**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF392B?style=for-the-badge&logo=vercel&logoColor=white)](https://domoristudios.com/) [![GitHub](https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KSPagoti)
 
-B.Tech in Artificial Intelligence & Machine Learning at Woxsen University, graduating in 2028. I build practical software projects at the intersection of intelligent systems, web development, and creative technology.
+## /// THE DRIVER
 
-[Portfolio](https://domoristudios.com/) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:your-email@example.com)
+> **B.Tech AI & Machine Learning student at Woxsen University · Class of 2028**  
+> Building practical, high-performance experiences across intelligent systems, web development, and creative technology.
 
----
-
-### About
-
-- Exploring **AI/ML, computer vision, and intelligent applications**
-- Building with Python, Java, web technologies, and databases
-- Interested in game development, graphics, and interactive experiences
-- Always learning, experimenting, and turning ideas into projects
-
-### Tech Stack
-
-**Languages**  
-Python · Java · SQL · HTML · CSS
-
-**Tools & Technologies**  
-Git · GitHub · Node.js · MongoDB · Supabase · Streamlit
-
-**Areas of Interest**  
-Machine Learning · Computer Vision · Web Development · Game Development
-
-### Selected Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| **Customer Churn Prediction** | Predicts telecom customer churn using supervised learning and model evaluation. | Python, Scikit-learn, Streamlit |
-| **HumAInity** | Capstone project exploring human-centered AI. | AI/ML, Python |
-| **Disease Risk Prediction** | Machine learning system for heart disease risk prediction. | Python, Scikit-learn |
-| **Online Examination System** | Web-based examination platform with randomized questions. | HTML, CSS, JavaScript |
-| **Food Ordering System** | Database-backed food ordering application. | Node.js, MongoDB |
-| **Personal Voice Assistant** | Python assistant with voice interaction and application controls. | Python |
-
-### GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSPagoti&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSPagoti&layout=compact&hide_border=true&theme=transparent)
+- 🏎️ Tuning: **AI/ML, computer vision & interactive applications**
+- 🧠 Building with: **Python, Java, web technologies & databases**
+- 📡 Principle: **learn fast · build deliberately · ship clean**
 
 ---
 
-*Building thoughtfully. Learning continuously.*
+## /// MY CAR-EER
+
+![Matrix-code Formula 1 car with technology telemetry](https://raw.githubusercontent.com/KSPagoti/KSPagoti/main/ChatGPT%20Image%204%20Nov%202026%2C%2015_44_53.png)
+
+---
+
+## /// SELECTED RUNS
+
+> 🏁 **STARTING GRID** — six finished laps, each a different circuit.
+
+| LAP | RACE CARD | RACE SPEC |
+|:--:|:--|:--|
+| 🟥 01 | **Customer Churn Prediction** · _Data Science GP_ | Python · Scikit-learn · Streamlit |
+| 🟦 02 | **HUMAInITY** · _Human-Centred AI Circuit_ | AI/ML · UX |
+| 🟩 03 | **LoFiChat** · _Realtime Sprint_ | Web · Realtime systems |
+| 🟨 04 | **Health Prediction System** · _Clinical Endurance Race_ | ML · Data analysis |
+| 🟪 05 | **E-Commerce Platform** · _Full-Stack Grand Prix_ | Java · Web · Database |
+| 🟧 06 | **Hackathon Builds** · _24-Hour Night Race_ | Rapid prototyping · Teamwork |
+
+---
+
+## /// LIVE TELEMETRY
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KSPagoti&show_icons=true&hide_title=true&hide_border=true&bg_color=090909&title_color=FF392B&text_color=F4F0E9&icon_color=FF392B)
+
+*Designed for speed · Built with curiosity · Based in India, working worldwide.*
