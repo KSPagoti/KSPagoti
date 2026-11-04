@@ -1,4 +1,4 @@
-![KRISHNA SANKEERTH PAGOTI — AI/ML ENGINEER](https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:3A0D0D,100:FF392B&height=220&section=header&text=KRISHNA%20S.%20PAGOTI&fontSize=45&fontColor=F4F0E9&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%2F%20ML%20ENGINEER%20%E2%80%94%20BUILDING%20AT%20FULL%20THROTTLE&descAlignY=58&descSize=13)
+![KRISHNA SANKEERTH PAGOTI — AI/ML ENGINEER](https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:3A0D0D,100:FF392B&height=220&section=header&text=KRISHNA%20SANKEERTH%20PAGOTI&fontSize=45&fontColor=F4F0E9&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%2F%20ML%20ENGINEER%20%E2%80%94%20BUILDING%20AT%20FULL%20THROTTLE&descAlignY=58&descSize=13)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF392B?style=for-the-badge&logo=vercel&logoColor=white)](https://domoristudios.com/) [![GitHub](https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KSPagoti)
 
