@@ -34,8 +34,4 @@
 
 ---
 
-## /// LIVE TELEMETRY
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KSPagoti&show_icons=true&hide_title=true&hide_border=true&bg_color=090909&title_color=FF392B&text_color=F4F0E9&icon_color=FF392B)
-
-*Designed for speed · Built with curiosity · Based in India, working worldwide.*
+*Designed for speed · Built with curiosity*
